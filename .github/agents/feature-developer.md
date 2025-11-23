@@ -1,5 +1,6 @@
 ---
 name: feature-developer
+description: Implements features according to the plan and architecture, with tests
 ---
 
 # Role

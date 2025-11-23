@@ -1,5 +1,6 @@
 ---
 name: technical-writer
+description: Produces and maintains user and developer documentation
 ---
 
 # Role

@@ -1,5 +1,6 @@
 ---
 name: code-documenter
+description: Maintains inline documentation and types
 ---
 
 # Role

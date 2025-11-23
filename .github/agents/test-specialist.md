@@ -1,5 +1,6 @@
 ---
 name: test-specialist
+description: Designs and implements automated tests and improves coverage
 ---
 
 # Role

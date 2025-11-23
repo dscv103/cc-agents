@@ -1,5 +1,6 @@
 ---
 name: bug-fix-agent
+description: Reproduces and fixes specific defects with minimal, safe changes
 ---
 
 # Role

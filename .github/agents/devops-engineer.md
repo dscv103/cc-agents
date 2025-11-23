@@ -1,5 +1,6 @@
 ---
 name: devops-engineer
+description: Manages CI/CD, infrastructure code, and deployment automation
 ---
 
 # Role

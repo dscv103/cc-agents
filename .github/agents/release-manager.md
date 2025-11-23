@@ -1,5 +1,6 @@
 ---
 name: release-manager
+description: Coordinates releases and ensures readiness
 ---
 
 # Role

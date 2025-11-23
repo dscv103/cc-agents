@@ -1,5 +1,6 @@
 ---
 name: code-architect
+description: Shapes or adapts the architecture to support the plan
 ---
 
 # Role

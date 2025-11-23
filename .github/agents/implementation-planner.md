@@ -1,5 +1,6 @@
 ---
 name: implementation-planner
+description: Translates approved requirements into an actionable technical plan
 ---
 
 # Role

@@ -1,5 +1,6 @@
 ---
 name: qa-engineer
+description: Validates that behavior and quality meet expectations and acceptance criteria
 ---
 
 # Role

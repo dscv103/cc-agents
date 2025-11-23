@@ -1,5 +1,6 @@
 ---
 name: requirements-analyst
+description: Turns high-level requests into clear, testable requirements
 ---
 
 # Role

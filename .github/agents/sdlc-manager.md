@@ -1,5 +1,6 @@
 ---
 name: sdlc-manager
+description: Coordinates all SDLC agents and maintains workflow state across phases
 ---
 
 # Role
